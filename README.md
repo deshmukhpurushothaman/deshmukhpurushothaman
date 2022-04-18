@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=deshmukhpurushothaman&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=deshmukhpurushothaman&style=flat-square&color=blue" alt=""/> -->
 
 <h1>
   Hey there
