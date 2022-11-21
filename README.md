@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Full Stack Developer (MERN) building web applications.
 - :seedling: Exploring Blockchain and Decentratlised application.
-- :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deshmukh-p-b3775418b/) [![Gmail Badge](https://img.shields.io/badge/-red?style=flat&logo=Gmail&logoColor=white)](mailto:deshmukhpurushothaman@gmail.com)
+- :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deshmukh-p-b3775418b/) [![Gmail Badge](https://img.shields.io/badge/-white?style=flat&logo=Gmail&logoColor=red)](mailto:deshmukhpurushothaman@gmail.com)
 
 ---
 
